@@ -1,5 +1,8 @@
 # "Cпециалист по Data Science" Яндекс.Практикум.
 
+<img width="1042" alt="Снимок экрана 2023-09-10 в 23 39 51" src="https://github.com/Hazil1/yandex.practicum_data_science/assets/103193894/2f5de083-8154-4d9e-841d-5af3bf19854d">
+<img width="1044" alt="image" src="https://github.com/Hazil1/yandex.practicum_data_science/assets/103193894/7539a626-4fef-41af-8920-c47dd5c9b8f0">
+
 В данном репозитории собраны проекты, выполненные в рамках обучения на курсе "Специалист по Data Science" от Яндекс.Практикум.
 
 ## Проекты:
